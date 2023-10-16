@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<p align="center">👩‍💻 Check out the <a href="https://community.seqera.io">Seqera Community Forum</a> and <a href="https://www.nextflow.io/slack-invite.html">Nextflow's Slack Workspace</a>.</p>
+<p align="center">👩‍💻 Check out the <a href="https://community.seqera.io">Community Forum</a> and <a href="https://www.nextflow.io/slack-invite.html">Nextflow Slack</a>.</p>
 
 <p align="center">👩🏻‍🏫 See available training material on the <a href="https://training.nextflow.io">community training platform</a>.</p>
 
