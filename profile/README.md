@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://seqera.io/">
+  <a href="https://nextflow.io/">
     <picture>
         <source media="(prefers-color-scheme: dark)" width="350" srcset="https://github.com/nextflow-io/trademark/blob/master/nextflow-logo-bg-dark.png?raw=true">
         <img alt="Nextflow Logo" width="350" src="https://github.com/nextflow-io/trademark/blob/master/nextflow-logo-bg-light.png?raw=true">
